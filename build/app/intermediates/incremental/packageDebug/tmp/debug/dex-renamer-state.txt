@@ -1,0 +1,4 @@
+#Wed Oct 14 00:22:42 BOT 2020
+base.0=C\:\\Users\\HP\\Desktop\\Flutter\\contador\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
